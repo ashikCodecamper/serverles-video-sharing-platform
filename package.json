@@ -1,0 +1,14 @@
+{
+  "name": "transcode-video",
+  "version": "1.0.0",
+  "description": "serverless youtube like platform on aws lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ashikur rahaman",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.463.0"
+  }
+}
